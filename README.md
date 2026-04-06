@@ -1,24 +1,14 @@
 # 🚀 Anvix
 
-<p align="center">
-  <b>Building modern, creative & high-performance digital experiences.</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/your-username?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Live-blue?style=for-the-badge">
-  </a>
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Made%20With-JavaScript-yellow?style=for-the-badge">
-</p>
+> Building modern, creative, and high-quality digital experiences.
 
 ---
 
-## 🌐 About
+## 🌐 About Anvix
 
-**Anvix** is a digital brand focused on building powerful web applications, tools, and seamless user experiences.
+**Anvix** is a digital brand founded by **Vinit Kumar Patwa**, focused on creating powerful web applications, tools, and interactive experiences.
 
-It represents the journey of turning ideas into scalable and impactful digital products — with a strong focus on performance, design, and innovation.
+With a vision for innovation and performance, Anvix represents the journey of turning ideas into real-world digital products.
 
 ---
 
